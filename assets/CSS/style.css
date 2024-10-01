@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+}
+p{
+    color: rgb(255, 115, 0);
+    
+    text-decoration: double;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
